@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-😄 FrontEnd Developer
+🌱 Web FrontEnd Developer / Web Publisher 
+
+## ABOUT
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,3 +12,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+React, TypeScript를 공부하고 있습니다.
+
+##SKILL
+<img src="https://img.shields.io/badge/React-191A1B?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/2.7.13-515151?style=for-the-badge"><img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=191A1B"><img src="https://img.shields.io/badge/1.5.0-515151?style=for-the-badge"><img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff"><img src="https://img.shields.io/badge/1.5.0-515151?style=for-the-badge">
+
+
