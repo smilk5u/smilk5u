@@ -16,7 +16,7 @@
 React, TypeScript를 공부하고 있습니다.
 
 ##SKILL
-<img src="https://img.shields.io/badge/html5-191A1B?style=flat-square&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=FFF">
 <img src="https://img.shields.io/badge/React-191A1B?style=flat-square&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React-191A1B?style=flat-square&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/React-191A1B?style=flat-square&logo=react&logoColor=61DAFB">
