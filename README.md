@@ -16,10 +16,21 @@
 - ⚡ Fun fact: ...
 -->
 
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&hide=contribs,prs)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&show_icons=true&theme=highcontrast)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smilk5u&repo=github-readme-stats)](https://github.com/smilk5u/github-readme-stats)
+
+
 
