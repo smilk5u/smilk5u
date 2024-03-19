@@ -1,10 +1,10 @@
 ### Hi there 👋
+
 🌱 Web FrontEnd Developer / Web Publisher 
+안녕하세요! 반갑습니다 :)
 
 ## SKILL
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=FFF"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/javascript-191A1B?style=flat-square&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-191A1B?style=flat-square&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=fff">
-
-🤔 React, TypeScript를 공부하고 있습니다.
 
 <!--
 - 🔭 I’m currently working on ...
