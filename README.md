@@ -19,5 +19,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&hide=contribs,prs)
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smilk5u&repo=github-readme-stats)](https://github.com/smilk5u/github-readme-stats)
+
