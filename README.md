@@ -15,3 +15,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smilk5u&hide=contribs,prs)
